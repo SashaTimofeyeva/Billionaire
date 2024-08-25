@@ -1,0 +1,12 @@
+C:\Projects\Max\BillionareTest\Billionare.Engine\bin\Debug\net5.0\Billionare.Engine.deps.json
+C:\Projects\Max\BillionareTest\Billionare.Engine\bin\Debug\net5.0\Billionare.Engine.dll
+C:\Projects\Max\BillionareTest\Billionare.Engine\bin\Debug\net5.0\ref\Billionare.Engine.dll
+C:\Projects\Max\BillionareTest\Billionare.Engine\bin\Debug\net5.0\Billionare.Engine.pdb
+C:\Projects\Max\BillionareTest\Billionare.Engine\obj\Debug\net5.0\Billionare.Engine.csproj.AssemblyReference.cache
+C:\Projects\Max\BillionareTest\Billionare.Engine\obj\Debug\net5.0\Billionare.Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Max\BillionareTest\Billionare.Engine\obj\Debug\net5.0\Billionare.Engine.AssemblyInfoInputs.cache
+C:\Projects\Max\BillionareTest\Billionare.Engine\obj\Debug\net5.0\Billionare.Engine.AssemblyInfo.cs
+C:\Projects\Max\BillionareTest\Billionare.Engine\obj\Debug\net5.0\Billionare.Engine.csproj.CoreCompileInputs.cache
+C:\Projects\Max\BillionareTest\Billionare.Engine\obj\Debug\net5.0\Billionare.Engine.dll
+C:\Projects\Max\BillionareTest\Billionare.Engine\obj\Debug\net5.0\ref\Billionare.Engine.dll
+C:\Projects\Max\BillionareTest\Billionare.Engine\obj\Debug\net5.0\Billionare.Engine.pdb
